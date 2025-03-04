@@ -25,7 +25,7 @@ The interactive **Power BI dashboard** consists of two main pages:
 - **Project Report (if applicable)**  
 
 ## 🔗 Project Link  
-[Add your GitHub repository link here]  
+[Bank of England Customer Data.pbix]  
 
 ## 💡 How to Use  
 1. **Download the .pbix file** and open it in **Power BI**.  
